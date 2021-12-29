@@ -8,7 +8,7 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232'
+	'https://www.must.edu.mo/images/MSB/files/YenPiYing_EN.pdf',
+	'https://www.haoyu-liu.com/',
+	'https://www.haoyu-liu.com/research.html'
 ];
